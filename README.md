@@ -1,7 +1,7 @@
-👋 Hi, I'm Jai Jain
+# 👋 Hi, I'm Jai Jain
 
-I'm a passionate and evolving tech enthusiast with a growing focus on Data Science and AI.  
-Currently learning through the Data Science Program at GUVI, I am gaining strong hands-on experience in:
+I'm a passionate and evolving tech enthusiast with a growing focus on **Data Science and AI**.  
+Currently learning through the **Data Science Program at GUVI**, I am gaining strong hands-on experience in:
 
 💻 Python • 🗃️ SQL • 📊 Power BI • 📈 Tableau • 🤖 Machine Learning • 🧠 Deep Learning • 🧬 Artificial Intelligence
 
@@ -57,10 +57,10 @@ With a solid foundation in programming and real-world applications, I am now foc
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 💻 [GitHub](https://github.com/your-github)  
-- 🎥 [YouTube](https://www.youtube.com/@yourchannel)  
-- 📸 [Instagram](https://instagram.com/your-handle)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/-jai-jain/))  
+- 💻 [Portfolio]([https://github.com/your-github](https://jaiguar.github.io/Portfolio-BS/))  
+- 🎥 [YouTube]([https://www.youtube.com/@yourchannel](https://www.youtube.com/@decodewithjai))  
+- 📸 [Instagram]([https://instagram.com/your-handle](https://www.instagram.com/decodewithjai/))
 
 ---
 
