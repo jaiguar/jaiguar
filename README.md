@@ -1,22 +1,67 @@
-About Me
-👋 Hi there! I'm Jai Jain, a passionate and dedicated web developer with a diverse skill set and a strong foundation in various programming languages and technologies. I am currently a final-year BCA student at Beacon Institute of Technology, where I am honing my skills and expanding my knowledge in the field of computer science.
+👋 Hi, I'm Jai Jain
 
-Skills
-Programming Languages: C, C++, Python, JavaScript
-Web Development: HTML, CSS, Bootstrap
-Version Control: Git & GitHub
-Office Tools: MS Office
-Additional Knowledge: Marketing, Human Resources
-Projects
-I have worked on several projects that demonstrate my expertise and creativity in web development:
+I'm a passionate and evolving tech enthusiast with a growing focus on Data Science and AI.  
+Currently learning through the Data Science Program at GUVI, I am gaining strong hands-on experience in:
 
-Calculator: A functional calculator built with HTML, CSS, and JavaScript.
-Portfolio Website: A personal portfolio showcasing my skills, projects, and achievements, created using HTML, CSS, and JavaScript.
-E-Commerce Website: An e-commerce platform developed with HTML, CSS, and JavaScript, featuring product listings, a shopping cart, and user authentication.
-Background
-I was born and raised in Meerut, where I developed a keen interest in technology and programming from a young age. My education at Vardhman Academy and Beacon Institute of Technology has provided me with a strong academic foundation and practical experience in the tech industry.
+💻 Python • 🗃️ SQL • 📊 Power BI • 📈 Tableau • 🤖 Machine Learning • 🧠 Deep Learning • 🧬 Artificial Intelligence
 
-Hobbies
-Programming and developing new projects
-Gaming and staying updated with the latest trends in technology
-Exploring new things and continuously learning
+---
+
+## 🛠️ Skills
+
+- 💻 **Programming:** Python, C, C++, JavaScript  
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Bootstrap  
+- 📦 **Data Tools:** SQL, Power BI, Tableau  
+- 🤖 **AI/ML:** Machine Learning, Deep Learning, AI Concepts  
+- 🛠️ **Version Control:** Git & GitHub  
+- 🧾 **Other:** MS Office, Basics of Marketing & HR
+
+---
+
+## 🎯 Current Focus
+
+- 📊 Data Analysis and Visualization  
+- 🧠 Building ML Models  
+- 🤖 Exploring AI Solutions  
+- 🚀 Continual Growth in Analytics & Data Science
+
+---
+
+## 💼 Projects
+
+> A mix of web and data-focused projects showcasing my transition from frontend to data science
+
+- 🔢 **Calculator App** – HTML, CSS & JavaScript  
+- 🧑‍💻 **Portfolio Website** – Showcasing my work and achievements  
+- 🛒 **E-Commerce Website** – A complete frontend shopping platform  
+- 📊 **Data Analysis Projects** – Coming soon using Python & Power BI  
+- 🤖 **AI & ML Projects** – Soon launching basic intelligent systems
+
+---
+
+## 🌍 Background
+
+Born and raised in **Meerut**, my curiosity for tech started at an early age.  
+With a solid foundation in programming and real-world applications, I am now focused on turning data into insight and solving meaningful problems with machine learning.
+
+---
+
+## 🎮 Hobbies & Interests
+
+- 👨‍💻 Coding & side projects  
+- 🧠 Exploring AI tools & new tech  
+- 🎮 Gaming & strategy games  
+- 📚 Blogging & knowledge sharing
+
+---
+
+## 📬 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💻 [GitHub](https://github.com/your-github)  
+- 🎥 [YouTube](https://www.youtube.com/@yourchannel)  
+- 📸 [Instagram](https://instagram.com/your-handle)
+
+---
+
+💡 *“I believe in learning by doing — and this GitHub is my playground for growth.”*
